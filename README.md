@@ -54,8 +54,6 @@ I specialize in building **full-stack web applications** and **enterprise soluti
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O6SPIDER&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/O6SPIDER)
 
-> If the images above appear blank, the third-party services that generate them (github-readme-stats, streak-stats, github-profile-trophy) may be temporarily rate-limited or offline. You can view your profile directly here: https://github.com/O6SPIDER
-
 ## 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=O6SPIDER&theme=neon&no-frame=true&no-bg=false&margin-w=4)](https://github.com/O6SPIDER)

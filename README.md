@@ -7,7 +7,7 @@
 
 ## 🎯 What I Do
 
-I specialize in building **full-stack web applications** and **enterprise solutions** that solve real-world problems. My expertise spans from frontend interfaces to robust backend systems, with a [...]
+I specialize in building **full-stack web applications** and **enterprise solutions** that solve real-world problems. My expertise spans from frontend interfaces to robust backend systems, with a focus on performance, scalability, and maintainability.
 
 ### 🚀 Areas of Expertise:
 - **Web Applications** - Custom SaaS platforms and dashboard systems
